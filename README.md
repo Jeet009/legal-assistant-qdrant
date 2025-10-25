@@ -5,7 +5,7 @@
 An interactive **legal research assistant** that leverages **Qdrant vector database** for semantic retrieval of Indian Supreme Court judgments and **Groq LLM** for context-aware summarization.  
 Built to help lawyers, researchers, and students quickly summarize relevant legal cases using natural language queries.
 
-[Colab Notebook](https://colab.research.google.com/drive/1sm16nqse-yE2XlajKRTw8Us597y536DG?usp=sharing) 
+##### [Colab Notebook](https://colab.research.google.com/drive/1sm16nqse-yE2XlajKRTw8Us597y536DG?usp=sharing) 
 ---
 
 ## 🌟 Features
