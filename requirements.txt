@@ -1,0 +1,19 @@
+# Core
+streamlit>=1.25.0
+qdrant-client>=1.6.0
+transformers>=4.45.0
+torch>=2.0.1
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# PDF/Text processing
+PyMuPDF>=1.23.0
+unstructured>=0.6.0
+
+# HTTP / API
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional: For Groq integration
+groq>=0.4.0
