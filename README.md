@@ -1,4 +1,4 @@
-# legal-assistant-qdrant
+# AI-Powered Legal Assistant using Qdrant
 
 ## ⚖️ AI-Powered Legal Assistant
 
